@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="default_city_namesw">
+      <item>Kharkiv</item>
+      <item>Kiev</item>
+      <item>Dnepr</item>
+      <item>Herson</item>
+      <item>Lvov</item>
+      <item>Nykolaev</item>
+      <item>Poltava</item>
+      <item>Odessa</item>
+   </string-array>
+   <string-array name="default_city_zipcodesw">
+      <item>61000</item>
+      <item>01000</item>
+      <item>49000</item>
+      <item>73000</item>
+      <item>79000</item>
+      <item>54000</item>
+      <item>36000</item>
+      <item>65000</item>
+   </string-array>
+</resources>
